@@ -2,7 +2,7 @@
 
 ## 💡 Technical Thought of the Day
 
-Do not just pass the tests; understand *why* the mathematical properties of the algorithm guarantee correctness.
+A formal correctness analysis (loop invariants, termination proofs) saves hours of downstream debugging.
 
 *Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
 
