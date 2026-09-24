@@ -4,7 +4,7 @@
 
 Do not just pass the tests; understand *why* the mathematical properties of the algorithm guarantee correctness.
 
-*Daily Insight:* Refactor design patterns to improve scalability and maintainability.
+*Daily Insight:* Test thoroughly for edge cases, null values, and boundary conditions.
 
 <!-- THOUGHT_END -->
 
