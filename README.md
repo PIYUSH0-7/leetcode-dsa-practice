@@ -2,9 +2,9 @@
 
 ## 💡 Technical Thought of the Day
 
-A formal correctness analysis (loop invariants, termination proofs) saves hours of downstream debugging.
+Rigorous mathematical proof of correctness ensures your code works for all edge cases, not just the test suite.
 
-*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
+*Daily Insight:* Practice active learning by revising core concepts and teaching peers.
 
 <!-- THOUGHT_END -->
 
