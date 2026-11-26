@@ -4,7 +4,7 @@
 
 Rigorous mathematical proof of correctness ensures your code works for all edge cases, not just the test suite.
 
-*Daily Insight:* Plan your weekly milestones, track progress velocity, and address blockers.
+*Daily Insight:* Optimize memory usage, garbage collection overhead, and resource disposal.
 
 <!-- THOUGHT_END -->
 
